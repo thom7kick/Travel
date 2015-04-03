@@ -41,16 +41,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="header">
 		<div class="container">	
 			<div class="logo">
-				<a href="index.html"><img src="images/log.png" alt=""></a>
+				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" > </span>
 					<ul>
-						<li  ><a href="services.html" >Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html"> Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php" >Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php"> Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 					<!--script-->
 				<script>
@@ -65,7 +65,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	<div class="banner banner-in">
 		<div class="container">
-			<h6><a href="index.html">HOME</a>/ <span>WORK</span></h6>
+			<h6><a href="index.php">HOME</a>/ <span>WORK</span></h6>
 		</div>
 	</div>	
 		<!---->
@@ -76,7 +76,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="products-bottom">
 			  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w1.jpg" class="img-responsive of-my" alt=""/>
@@ -91,7 +91,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w2.jpg" class="img-responsive of-my" alt=""/>
@@ -106,7 +106,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w3.jpg" class="img-responsive of-my" alt=""/>
@@ -123,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	
 			  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w4.jpg" class="img-responsive of-my" alt=""/>
@@ -138,7 +138,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w1.jpg" class="img-responsive of-my" alt=""/>
@@ -153,7 +153,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w2.jpg" class="img-responsive of-my" alt=""/>
@@ -170,7 +170,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		
 			  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w3.jpg" class="img-responsive of-my" alt=""/>
@@ -185,7 +185,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w4.jpg" class="img-responsive of-my" alt=""/>
@@ -200,7 +200,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  </div>  
 					  <div class="col-md-4 work-grid">
 					<div class="view view-tenth">
-					      <a href="single.html">
+					      <a href="single.php">
 						   <div class="inner_content clearfix">
 							<div class="product_image">
 								<img src="images/w1.jpg" class="img-responsive of-my" alt=""/>
@@ -244,9 +244,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>Company</h4>
 					
 						<ul class="nav-bottom">
-							<li><a href="story.html">Our story</a> </li>
+							<li><a href="story.php">Our story</a> </li>
 							<li><a href="#">Mission</a></li>
-							<li><a href="404.html">Journal </a></li>	
+							<li><a href="404.php">Journal </a></li>	
 							<li><a href="#">Careers </a></li>								
 						</ul>
 					</div>
@@ -254,7 +254,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

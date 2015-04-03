@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Trudge a Travel Category Flat Bootstarp Responsive Website Template | Services :: w3layouts</title>
+<title>Trudge a Travel Category Flat Bootstarp Responsive Website Template | Single :: w3layouts</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -41,16 +41,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="header">
 		<div class="container">	
 			<div class="logo">
-				<a href="index.html"><img src="images/log.png" alt=""></a>
+				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" ></span>
 					<ul>
-						<li  ><a href="services.html">Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html" > Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php" >Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php"> Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 					<!--script-->
 				<script>
@@ -63,69 +63,84 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-		<div class="banner banner-in">
+	<div class="banner banner-in">
 		<div class="container">
-			<h6><a href="index.html">HOME</a> / <span>services</span></h6>
+			<h6><a href="index.php">HOME</a>/ <span>BLOG</span></h6>
 		</div>
-	</div>
+	</div>	
 		<!---->
 		<div class="container">
-			<div class="services">
-					<h3 >SERVICES</h3>
-					<div class="grid-top-top">
-						<div class="col-md-6 ">
-							<div class="col-md-6 service-grid">
-							 	<a href="single.html"><img class="img-responsive "  src="images/app.jpg" alt="" /></a>
-							 </div>
-							 <div class="col-md-6 top-grid-right">
-								 <h4>Lorem ipsum dolor</h4>
-								 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,or randomised words which don't look even slightly believable.</p>
-							</div>
-							<div class="clearfix"> </div>
+		<div class="single">
+			<div class="single-middle">
+						<div class="col-md-7 need">
+							<img class="img-responsive" src="images/si.jpg" alt="">
 						</div>
-						<div class="col-md-6 ">
-							<div class="col-md-6 service-grid ">
-							 	<a href="single.html"><img class="img-responsive grass"  src="images/app1.jpg" alt="" /></a>
-							 </div>
-							 <div class="col-md-6  top-grid-right">
-								 <h4>Sed ut perspiciatis</h4>
-								 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,or randomised words which don't look even slightly believable.</p>
+						<div class="col-md-5 tag">
+							<div class="social-in">
+								<div class="col-md-4 date">
+									<p>Date <span>April 15,2014</span></p>
+								</div>
+								<div class="col-md-4 date">
+									<p>Tags<span><a href="#">Website </a> | <a href="#"> Design	</a></span></p>
+								</div>
+								<div class="col-md-4 date">
+									<p>Author<span>Michael Reimer</span></p>
+								</div>
+								<div class="clearfix"> </div>
 							</div>
-							<div class="clearfix"> </div>
+							<p class="tag-in">Lorem ipsum dolor sit amet, mollis epicuri pri ei, perpetua honestatis ad vix. Ne duo ludus putent, cu causae tamquam voluptua duo. Agam officiis no duo, ut reque decore sea. Cu eripuit accusam vix. Facete blandit detraxit pri cu, sea soluta doming civibus ea.
+							<span>Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.</span></p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
-					<h4 class="content-mid "> additional services</h4>
-					<p class="grid-para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
-					<p class="grid-para">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form.accompanied by English versions from the 1914 translation by H. Rackham.</p>
-					<div class="simply-grid">
-					<div class="col-md-4 so-left">
-						<ul class="simply-left">
-							<li ><a href="single.html"><span > </span>  Ipsum is simply dummy</a></li>
-							<li ><a href="single.html"><span > </span>There are many variations</a></li>
-							<li ><a href="single.html"><span > </span>when an unknown printer took</a></li>
-						</ul>
+					<div class="single-middle">
+						<div class="col-md-7 need">
+							<img class="img-responsive" src="images/si1.jpg" alt="">
+						</div>
+						<div class="col-md-5 tag">
+							<div class="social-in">
+								<div class="col-md-4 date">
+									<p>Date <span>April 15,2014</span></p>
+								</div>
+								<div class="col-md-4 date">
+									<p>Tags<span><a href="#">Website </a> | <a href="#"> Design	</a></span></p>
+								</div>
+								<div class="col-md-4 date">
+									<p>Author<span>Michael Reimer	</span></p>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+							<p class="tag-in">Lorem ipsum dolor sit amet, mollis epicuri pri ei, perpetua honestatis ad vix. Ne duo ludus putent, cu causae tamquam voluptua duo. Agam officiis no duo, ut reque decore sea. Cu eripuit accusam vix. Facete blandit detraxit pri cu, sea soluta doming civibus ea.
+							<span>Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.</span></p>
+						</div>
+						<div class="clearfix"> </div>
 					</div>
-					<div class="col-md-4 so-left">
-						<ul class="simply-left">
-							<li ><a href="single.html"><span > </span>There are many variations</a></li>
-							<li ><a href="single.html"><span > </span>  Ipsum is simply dummy</a></li>
-							<li ><a href="single.html"><span > </span>when an unknown printer took</a></li>
-						</ul>
-					</div>
-					<div class="col-md-4 so-left">
-						<ul class="simply-left">
-							<li ><a href="single.html"><span > </span>when an unknown printer took</a></li>
-							<li ><a href="single.html"><span > </span>  Ipsum is simply dummy</a></li>
-							<li ><a href="single.html"><span > </span>There are many variations</a></li>
-						</ul>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-				</div>
+					<div class="comments-area">
+		  		        	<h3>Add New Comment</h3>
+							<form>
+								<p>
+									<span>Name</span>									
+									<input type="text" value="">
+								</p>
+								<p>
+									<span>Email</span>									
+									<input type="text" value="">
+								</p>
+								<p>
+									<span>Website</span>
+									<input type="text" value="">
+								</p>
+								<p>
+									<span>Subject</span>									
+									<textarea></textarea>
+								</p>
+								<div class="sub-in">
+									<input type="submit" value="Submit Comment">
+								</div>
+							</form>
+					  </div>
 			</div>
-
-
+			</div>
 			<div class="content-bottom-in">
 				<div class="container">
 					<ul class="social">
@@ -135,7 +150,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="#"><i class="gmail"> </i></a></li>
 					</ul>
 				</div>
-		</div>
+			</div>
+		
 		<!---->
 	<div class="footer">
 		<div class="container">
@@ -145,15 +161,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p>1401 South Grand Avenue</p> 
 					<p>Los Angeles, CA 90015 </p>
 					<p>(213) 748-2411</p>	
-						<a href="#" >see it in the map<i> </i></a>
+<a href="#" >see it in the map<i> </i></a>					
 					</div>
 					<div class="col-md-3 amet-sed ">
 					<h4>Company</h4>
 					
 						<ul class="nav-bottom">
-							<li><a href="story.html">Our story</a> </li>
+							<li><a href="story.php">Our story</a> </li>
 							<li><a href="#">Mission</a></li>
-							<li><a href="404.html">Journal </a></li>	
+							<li><a href="404.php">Journal </a></li>	
 							<li><a href="#">Careers </a></li>								
 						</ul>
 					</div>
@@ -161,7 +177,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

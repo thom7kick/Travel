@@ -35,16 +35,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="header">
 		<div class="container">	
 			<div class="logo">
-				<a href="index.html"><img src="images/log.png" alt=""></a>
+				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" > </span>
 					<ul>
-						<li  ><a href="services.html" >Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html"> Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php" >Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php"> Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 					<!--script-->
 				<script>
@@ -69,17 +69,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class=" content-top">
 						<div class="col-md-4 top-grid">
-							<a href="single.html"><img class="img-responsive" src="images/s1.png" alt=" "></a>
+							<a href="single.php"><img class="img-responsive" src="images/s1.png" alt=" "></a>
 							<h5>Curabitur justo</h5>
 							<p>Donec id velit feugiat, congue nunc non, iaculis neque. Vivamus nisl justo, finibus in interdum nec, iaculis non ongfdio lorem ipsum dolor sit amet.</p>
 						</div>
 						<div class="col-md-4 top-grid">
-							<a href="single.html"><img class="img-responsive" src="images/s2.png" alt=" "></a>
+							<a href="single.php"><img class="img-responsive" src="images/s2.png" alt=" "></a>
 							<h5>Curabitur justo</h5>
 							<p>Donec id velit feugiat, congue nunc non, iaculis neque. Vivamus nisl justo, finibus in interdum nec, iaculis non ongfdio lorem ipsum dolor sit amet.</p>
 						</div>
 						<div class="col-md-4 top-grid">
-							<a href="single.html"><img class="img-responsive" src="images/s3.png" alt=" "></a>
+							<a href="single.php"><img class="img-responsive" src="images/s3.png" alt=" "></a>
 							<h5>Curabitur justo</h5>
 							<p>Donec id velit feugiat, congue nunc non, iaculis neque. Vivamus nisl justo, finibus in interdum nec, iaculis non ongfdio lorem ipsum dolor sit amet.</p>
 						</div>		
@@ -150,20 +150,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3>Recent Tour</h3>
 					<div class="brand">
 						<div class="col-md-3 fashion"> 
-							<a href="single.html"><img class="img-responsive" src="images/pi.jpg" alt="">
+							<a href="single.php"><img class="img-responsive" src="images/pi.jpg" alt="">
 							<p>Brand Project<i> </i></p></a>
 						</div>
 						<div class="col-md-3 fashion"> 
-							<a href="single.html"><img class="img-responsive" src="images/pi1.jpg" alt="">
+							<a href="single.php"><img class="img-responsive" src="images/pi1.jpg" alt="">
 							<p>Brand Project<i> </i></p></a>
 						</div>
 						<div class="col-md-3 fashion"> 
-							<a href="single.html"><img class="img-responsive" src="images/pi2.jpg" alt="">
+							<a href="single.php"><img class="img-responsive" src="images/pi2.jpg" alt="">
 							<p>Brand Project<i> </i></p></a>
 							
 						</div>
 						<div class="col-md-3 fashion"> 
-							<a href="single.html"><img class="img-responsive" src="images/pi3.jpg" alt="">
+							<a href="single.php"><img class="img-responsive" src="images/pi3.jpg" alt="">
 							<p>Brand Project<i> </i></p></a>
 						</div>
 							<div class="clearfix"> </div>
@@ -211,9 +211,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>Company</h4>
 					
 						<ul class="nav-bottom">
-							<li><a href="story.html">Our story</a> </li>
+							<li><a href="story.php">Our story</a> </li>
 							<li><a href="#">Mission</a></li>
-							<li><a href="404.html">Journal </a></li>	
+							<li><a href="404.php">Journal </a></li>	
 							<li><a href="#">Careers </a></li>								
 						</ul>
 					</div>
@@ -221,7 +221,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

@@ -41,16 +41,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="header">
 		<div class="container">	
 			<div class="logo">
-				<a href="index.html"><img src="images/log.png" alt=""></a>
+				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" ></span>
 					<ul>
-						<li  ><a href="services.html">Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html" > Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php">Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php" > Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 					<!--script-->
 				<script>
@@ -65,7 +65,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="banner banner-in">
 		<div class="container">
-			<h6><a href="index.html">HOME</a>/ <span>OUR STORY</span></h6>
+			<h6><a href="index.php">HOME</a>/ <span>OUR STORY</span></h6>
 		</div>
 	</div>
 		<!---->
@@ -74,12 +74,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3>OUR STORE</h3>
 				<div class="story">
 					<div class="col-md-6 story-popular">
-						<a href="single.html"><img class="img-responsive " src="images/a1.jpg" alt=""></a>
+						<a href="single.php"><img class="img-responsive " src="images/a1.jpg" alt=""></a>
 						<h6>Contrary to popular</h6>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised word. Richard McClintock.</p>
 					</div>
 					<div class="col-md-6  story-popular">
-						<a href="single.html"><img class="img-responsive " src="images/a2.jpg" alt=""></a>
+						<a href="single.php"><img class="img-responsive " src="images/a2.jpg" alt=""></a>
 						<h6>Contrary to popular</h6>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised word. Richard McClintock.</p>
 					</div>		
@@ -87,7 +87,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="our">
 					<div class="col-md-5 our-in">
-						<a href="single.html"><img class=" img-responsive" src="images/ab.jpg" alt="">  </a>
+						<a href="single.php"><img class=" img-responsive" src="images/ab.jpg" alt="">  </a>
 					</div>
 					<div class="col-md-7 in-our">
 						<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text </h5>
@@ -99,12 +99,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="story">
 					
 					<div class="col-md-6  story-popular">
-						<a href="single.html"><img class="img-responsive " src="images/a2.jpg" alt=""></a>
+						<a href="single.php"><img class="img-responsive " src="images/a2.jpg" alt=""></a>
 						<h6>Contrary to popular</h6>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised word. Richard McClintock.</p>
 					</div>
 <div class="col-md-6 story-popular">
-						<a href="single.html"><img class="img-responsive " src="images/a1.jpg" alt=""></a>
+						<a href="single.php"><img class="img-responsive " src="images/a1.jpg" alt=""></a>
 						<h6>Contrary to popular</h6>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised word. Richard McClintock.</p>
 					</div>					
@@ -138,9 +138,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>Company</h4>
 					
 						<ul class="nav-bottom">
-							<li><a href="story.html">Our story</a> </li>
+							<li><a href="story.php">Our story</a> </li>
 							<li><a href="#">Mission</a></li>
-							<li><a href="404.html">Journal </a></li>	
+							<li><a href="404.php">Journal </a></li>	
 							<li><a href="#">Careers </a></li>								
 						</ul>
 					</div>
@@ -148,7 +148,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

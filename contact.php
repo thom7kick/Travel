@@ -1,4 +1,4 @@
-<!--A Design by W3layouts 
+.phpA Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -9,21 +9,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <head>
 <title>Trudge a Travel Category Flat Bootstarp Responsive Website Template | Contact :: w3layouts</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+.php jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
-<!-- Custom Theme files -->
-<!--theme-style-->
+.php Custom Theme files -->
+.phptheme-style-->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
-<!--//theme-style-->
+.php//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Trudge Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<!--fonts-->
+.phpfonts-->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
-<!--//fonts-->
+.php//fonts-->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
 				<script type="text/javascript">
@@ -37,22 +37,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 </head>
 <body>
-<!--header-->
+.phpheader-->
 	<div class="header">
 		<div class="container">	
 			<div class="logo">
-				<a href="index.html"><img src="images/log.png" alt=""></a>
+				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" ></span>
 					<ul>
-						<li  ><a href="services.html" >Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html"> Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php" >Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php"> Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
-					<!--script-->
+					.phpscript-->
 				<script>
 					$("span.menu").click(function(){
 						$(".top-nav ul").slideToggle(500, function(){
@@ -65,10 +65,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	<div class="banner banner-in">
 		<div class="container">
-			<h6><a href="index.html">HOME</a> / <span>CONTACT</span></h6>
+			<h6><a href="index.php">HOME</a> / <span>CONTACT</span></h6>
 		</div>
 	</div>	
-		<!---->
+		.php-->
 	
 			<div class="container">
 			<div class="contact">
@@ -123,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 	
-		<!---->
+		.php-->
 	<div class="footer">
 		<div class="container">
 			<div class="footer-top">
@@ -138,9 +138,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>Company</h4>
 					
 						<ul class="nav-bottom">
-							<li><a href="story.html">Our story</a> </li>
+							<li><a href="story.php">Our story</a> </li>
 							<li><a href="#">Mission</a></li>
-							<li><a href="404.html">Journal </a></li>	
+							<li><a href="404.php">Journal </a></li>	
 							<li><a href="#">Careers </a></li>								
 						</ul>
 					</div>
@@ -148,7 +148,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

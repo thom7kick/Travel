@@ -1,13 +1,7 @@
-<!--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
 <head>
-<title>Trudge a Travel Category Flat Bootstarp Responsive Website Template | 404 :: w3layouts</title>
+<title>Safaritrek | 404</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -46,11 +40,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" ></span>
 					<ul>
-						<li  ><a href="services.html" >Services</a></li>
-						<li><a href="story.html" > Our Story</a></li>
-						<li><a href="work.html"> Work  </a></li>
-						<li><a href="404.html" >Journal</a></li>
-						<li><a href="contact.html">contact</a></li>
+						<li  ><a href="services.php" >Services</a></li>
+						<li><a href="story.php" > Our Story</a></li>
+						<li><a href="work.php"> Work  </a></li>
+						<li><a href="404.php" >Journal</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 					<!--script-->
 				<script>
@@ -65,7 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	<div class="banner banner-in">
 		<div class="container">
-			<h6><a href="index.html">HOME</a> / <span>404</span></h6>
+			<h6><a href="index.php">HOME</a> / <span>404</span></h6>
 		</div>
 	</div>	
 		<!---->
@@ -74,7 +68,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="four">
 				<h2>You've Failed</h2>
 				<h3>404 Error!</h3>
-				<a href="index.html" class="back">Go Back </a>
+				<a href="index.php" class="back">Go Back </a>
 			</div>
 			</div>
 			<div class="content-bottom-in">
@@ -112,7 +106,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>Support</h4>
 						<ul  class="nav-bottom">
 							<li><a href="#">FAQ</a></li>						
-							<li><a href="contact.html">Contact us</a></li>
+							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Policies</a></li>
 							
 						</ul>

@@ -1,9 +1,9 @@
 <?php
-$connection = mysql_connect('localhost', 'root', 'yahoo');
-if (!$connection){
-    die("Database Connection Failed" . mysql_error());
-}
-$select_db = mysql_select_db('demo');
-if (!$select_db){
-    die("Database Selection Failed" . mysql_error());
-}
+
+$con = mysqli_connect("localhost","safaritrek","travel4050","safaritrek");
+
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+?> 

@@ -29,12 +29,41 @@ h1,h2,h3,h4,h5,h6,label,p{
 .logo{
 	float: left;
 }
+.logreg {
+	float:right;
+}
+.logreg a {
+	text-decoration: none;
+}
+.logreg ul li {
+	display:inline-block;
+	
+}
+.logreg ul li a{
+	display:inline-block;
+	font-size: 1.1em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color:#7e7e7e;
+}
+
+
+
+.logreg ul li  a:hover {
+	outline: blue;
+	color:#d3d3d3;
+}
+
+
+
+
 .header-bottom{
 	float:right;
 	width:60%;
 }
 .top-nav{
 	float:right;
+	clear:both;
 }
 .top-nav ul li {
 	display:inline-block;
@@ -1541,4 +1570,5 @@ ul.social li a i.gmail:hover {
 	left: 38%;
 	width: 24%;
 }
+
 }

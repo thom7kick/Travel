@@ -20,6 +20,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--//fonts-->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="script.js"></script>
+
 				<script type="text/javascript">
 					jQuery(document).ready(function($) {
 						$(".scroll").click(function(event){		
@@ -36,6 +38,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">	
 			<div class="logo">
 				<a href="index.php"><img src="images/log.png" alt=""></a>
+			</div>
+			<div class="logreg">
+				<ul>
+					<li><a href="#" id="login">Login</a></li>
+					<li>-or-</li>
+					<li><a href="#" id="register" > register</a></li>
+				</ul>
 			</div>
 				<div class="top-nav">
 					<span class="menu"><img src="images/menu.png" alt="" > </span>

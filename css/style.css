@@ -322,7 +322,7 @@ a.here i{
 .submit form {
 	margin: 3em 0 0 12em;
 }
-.submit input[type="text"] {
+.submit input[type="email"] {
 	width: 65%;
 	color: #4d4d4d;
 	font-weight: 400;

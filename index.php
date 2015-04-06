@@ -189,8 +189,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h3>join our subscribers.</h3>
 					<p>Praesent ac dapibus lacus condimentum commodo ligula.</p>
 				<div class="submit">
-					<form>
-						<input type="text" value="Your email address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your email address';}">
+					<form method="post" action="subscribe.php">
+						<input name="Email" type="email" value="Your email address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your email address';}">
 						<input type="submit" value="Subscribe">
 						<div class="clearfix"> </div>
 					</form>

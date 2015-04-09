@@ -44,7 +44,7 @@ if($result)
 	$_SESSION['SESS_FIRST_NAME'] = $member['FName'];
 	$_SESSION['SESS_LAST_NAME'] = $member['LName'];
 	session_write_close();
-	header("location: index.php");
+	header("location: userview.php");
 	exit();
 	}
 	else {

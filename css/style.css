@@ -30,17 +30,17 @@ h1,h2,h3,h4,h5,h6,label,p{
 .logo{
 	float: left;
 }
-.logreg {
+.logreg, .useraccount {
 	float:right;
 }
-.logreg a {
+.logreg a, .useraccount a {
 	text-decoration: none;
 }
-.logreg ul li {
+.logreg ul li, .useraccount ul li{
 	display:inline-block;
 	
 }
-.logreg ul li a{
+.logreg ul li a, .useraccount ul li a{
 	display:inline-block;
 	font-size: 1.1em;
 	font-family: 'Open Sans', sans-serif;
@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 
 
 
-.logreg ul li  a:hover {
+.logreg ul li  a:hover, #logout:hover {
 	outline: blue;
 	color:#d3d3d3;
 }

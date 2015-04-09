@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,11 +39,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="logo">
 				<a href="index.php"><img src="images/log.png" alt=""></a>
 			</div>
-			<div class="logreg">
+			<div class="useraccount">
 				<ul>
-					<li><a href="#" id="login">Login</a></li>
-					<li>-or-</li>
-					<li><a href="#" id="register" > register</a></li>
+					<li><a href="#" id="username" ><?php session_start(); echo $_SESSION['SESS_FIRST_NAME'];?></a></li>
+					<li>&nbsp;&nbsp;</li>
+					<li><a href="index.php" id="logout" >logout</a></li>
 				</ul>
 			</div>
 				<div class="top-nav">

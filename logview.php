@@ -56,15 +56,19 @@ if (x==null || x=="")
 
 				
 				<h1>
-				<div style="width: 190px; float:left; margin:0px 60px;">Login your account!
+				<div style="width: 60px; float:left;">
 				</div>
-				<div style="width: 60px; float:right;">
+				<div style="width: 60px; float:left;">
+				<a href="index.php" id="flipToLogin" class="flipLink">Back</a>
+				</div>
+				<div style="width: 208px; float:right;">
+				Login to your account!
 				</div>
 				<div class="clearfix"></div>
 				</h1>
-				<input type="text" name="Email" id="loginEmail" placeholder="Username" style="width: 240px;" />
+				<input type="text" name="Email" id="loginEmail" placeholder="Username" required="required" style="width: 240px;" />
 
-				<input type="password" name="pwd" id="loginPass" placeholder="Password" style="width: 240px;" />
+				<input type="password" name="pwd" id="loginPass" placeholder="Password" required="required" style="width: 240px;" />
 
 				<input type="submit" id="buttonxxxx" name="submit" value="Login" />
 				

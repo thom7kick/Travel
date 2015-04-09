@@ -21,6 +21,6 @@ $lastname = mysqli_real_escape_string($con,$_POST['lastname']);
 
 
 mysqli_query($con,"INSERT INTO users (Email, pwd, Creation_Date, FName, LName)
-VALUES ('$Email','$pass','NOW()','$firstname','$lastname')");
+VALUES ('$Email','$pass',NOW(),'$firstname','$lastname')");
 header("location: index.php");
 ?>

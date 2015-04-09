@@ -67,6 +67,9 @@ function validateForms() {
 				<h1>
 				<div style="width: 60px; float:left;">
 				</div>
+				<div style="width: 60px; float:left;">
+				<a href="index.php" id="flipToLogin" class="flipLink">Back</a>
+				</div>
 				<div style="width: 208px; float:right;">
 				Register a new account!
 				</div>
